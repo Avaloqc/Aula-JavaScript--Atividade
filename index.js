@@ -12,4 +12,4 @@
     }
 	  else {
 		  console.log('Reporbado');
-		  alert('Reprobado')}
+		  alert('Reprobado')};
